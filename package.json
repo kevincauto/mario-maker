@@ -1,0 +1,27 @@
+{
+  "name": "mario-maker",
+  "version": "1.0.0",
+  "description": "The will be a one-page app featuring the 2015 hit Nintendo game Super Mario Maker.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "mario",
+    "maker"
+  ],
+  "author": "Kevin Cauto",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  },
+  "devDependencies": {
+    "babel-core": "^6.4.5",
+    "babel-loader": "^6.2.1",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "webpack": "^1.12.12"
+  }
+}
